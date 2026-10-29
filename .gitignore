@@ -1,0 +1,22 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+.pytest_cache/
+
+# Local bot installation and cache markers
+.deps_ok
+.python_path
+
+# Windows artifacts & shortcuts
+*.lnk
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Private/personal notes and temporary files
+NAVOD_PRE_DRUHY_PC.txt
+*.tmp
+*.bak
+*.log
